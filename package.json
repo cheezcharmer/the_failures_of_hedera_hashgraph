@@ -1,0 +1,32 @@
+{
+  "name": "the_failures_of_hedera_hashgraph",
+  "version": "1.0.0",
+  "description": "This repo is here to highlight every single failure by hedera hashgraph and it's lazy ass incompetent good for nothing developers. FUCK HEDERA HASHGRAPH",
+  "keywords": [
+    "DO",
+    "NOT",
+    "DEVELOP",
+    "ON",
+    "HEDERA",
+    "HASHGRAPH"
+  ],
+  "homepage": "https://github.com/cheezcharmer/the_failures_of_hedera_hashgraph#readme",
+  "bugs": {
+    "url": "https://github.com/cheezcharmer/the_failures_of_hedera_hashgraph/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheezcharmer/the_failures_of_hedera_hashgraph.git"
+  },
+  "license": "UNLICENSED",
+  "author": "cheezcharmer",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hashgraph/hedera-wallet-connect": "^2.1.3",
+    "@hiero-ledger/sdk": "^2.79.0"
+  }
+}
